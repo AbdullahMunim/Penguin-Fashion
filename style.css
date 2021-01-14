@@ -1,3 +1,13 @@
-header{
+.Penguin-card{
+    border: 0;
+}
+.penguin-card-footer{
+    border: 0;
+}
+.categories img{
+    width: 100px;
+}
+.Penguin-slide{
     background-color: #ffaf84;
+    border-radius: 1em;
 }
